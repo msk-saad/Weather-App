@@ -26,7 +26,7 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 
 1. Clone this repository or download the ZIP file.
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/msk-saad/weather-app.git
 
 2. Open index.html in your web browser.
 
